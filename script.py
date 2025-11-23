@@ -203,7 +203,7 @@ def dataset_1(df):
     df = df.apply(lambda col: col.str.title() if col.dtypes == 'object' else col)
 
 
-    # ✅ Title case every object (string) column
+    # Title case every object (string) column
     # df = df.apply(lambda col: col.str.title() if col.dtypes == 'object' else col)
 
     #df['job_title'] = df['job_title'].str.title()
@@ -221,3 +221,4 @@ dataset_1(df1)
 # print(df2.head())
 # print(df2.columns)
 # print(df2.shape)
+
