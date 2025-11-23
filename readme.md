@@ -2,7 +2,7 @@
 
 **[Interactive Tableau Dashboard 🚀](https://public.tableau.com/views/EUAISkillsSalaries20242025/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**
 
-![Dashboard Preview](image-1.png)
+(image-1.png)
 
 ## 📊 Project Overview
 This project analyzes **15,000+ real AI & Data job postings** (2024–2025) across Europe to reveal **exactly which skills pay the most** and **how much you should realistically earn** in roles like:
@@ -55,6 +55,7 @@ Data sourced from **LinkedIn, Indeed, Glassdoor, and Kaggle**.
 ## About Me
 Hi, I'm Cristian Valenzuela, a Data Analyst passionate about AI and analytics. Connect with me on [LinkedIn](https://www.linkedin.com/in/cristianvalenzuelaarcos/) for discussions or collaborations!
 If you find this useful, star the repo or share your thoughts!
+
 
 
 
