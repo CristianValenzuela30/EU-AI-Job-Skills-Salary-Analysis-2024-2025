@@ -1,6 +1,6 @@
 # AI Job Market Analysis 2025: Skills & Salary Insights 🇪🇺
 
-![Tableau Dashboard Preview](https://public.tableau.com/views/EUAISkillsSalaries20242025/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) 
+[Tableau Dashboard Preview](https://public.tableau.com/views/EUAISkillsSalaries20242025/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) 
 
 ![alt text](image-1.png)
 
@@ -28,7 +28,11 @@ This project showcases a full-stack data analysis workflow:
 
 ## 📁 Repository Structure
 ├── 📄 README.md # You are here
+
 ├── 📜 script.py # Main Python cleaning & transformation script
+
 ├── 📊 ai_job_dataset_messy_1.csv # Original messy dataset (not included in repo)
+
 ├── 📈 Cleaned_dataset_1.csv # Final cleaned dataset (output of script.py)
-└── 🎨 [Tableau_Dashboard.twbx] # Tableau workbook file (optional to include)
+
+└── 🎨 [[Tableau_Dashboard Link]](https://public.tableau.com/views/EUAISkillsSalaries20242025/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) 
