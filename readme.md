@@ -1,4 +1,8 @@
 # AI Job Market Analysis 2025: Skills & Salary Insights 🇪🇺
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![EU Jobs](https://img.shields.io/badge/AI%20Job%20Market-2025-green)
 
 **[Interactive Tableau Dashboard 🚀](https://public.tableau.com/views/EUAISkillsSalaries20242025/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**
 
@@ -56,8 +60,6 @@ Data sourced from **LinkedIn, Indeed, Glassdoor, and Kaggle**.
 ## About Me
 Hi, I'm Cristian Valenzuela, a Data Analyst passionate about AI and analytics. Connect with me on [LinkedIn](https://www.linkedin.com/in/cristianvalenzuelaarcos/) for discussions or collaborations!
 If you find this useful, star the repo or share your thoughts!
-
-
 
 
 
