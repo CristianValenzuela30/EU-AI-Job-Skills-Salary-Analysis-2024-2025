@@ -2,10 +2,6 @@ import pandas as pd
 import re
 import numpy as np
 
-# Reading the File
-df1 = pd.read_csv('ai_job_dataset_messy_1.csv')
-df2 = pd.read_csv('ai_job_dataset_messy_1.csv')
-
 # Creating Function for Dataset 1
 def dataset_1(df):
     def initial_exploration():
@@ -215,10 +211,16 @@ def dataset_1(df):
 
     df.to_csv('Cleaned_dataset_1.csv', index=False)
     print("Cleaned File Saved Succesfully!")
+    return df
 
-dataset_1(df1)
+if __name__ == "__main__":
+    # Reading the File
+    df1 = pd.read_csv('ai_job_dataset_messy_1.csv')
+    
+    dataset_1(df1)
 
-# print(df2.head())
-# print(df2.columns)
-# print(df2.shape)
+    # print(df2.head())
+    # print(df2.columns)
+    # print(df2.shape)
+
 
